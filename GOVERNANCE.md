@@ -1,5 +1,7 @@
 RENAME IN GOUVERNANCE.md
 
+[🇫🇷 Version française](./GOVERNANCE.md)
+
 # Governance Model
 
 ## Decision Making
