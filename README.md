@@ -19,3 +19,4 @@ For any questions, contact support@librademoschain.com or create an issue.
 - **Blockchain** : Cosmos SDK (Go)
 - **Frontend** : Next.js + CosmJS
 - **Consensus** : Tendermint BFT
+- **Smart** : Contract : CosmWasm
