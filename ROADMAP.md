@@ -30,7 +30,7 @@ Créer une **plateforme décentralisée, modulaire et souveraine** pour la gouve
 
 ---
 
-## 🚀 Déploiement par phases (vision produit)
+## 🚀 Déploiement par phases (vision produit) (encore en évolution non définitif)
 
 | Phase | Période | Contenu |
 |-------|---------|---------|
