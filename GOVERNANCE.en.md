@@ -1,6 +1,8 @@
-# Governance Model
+RENAME IN GOUVERNANCE.md
 
-[🇫🇷 Version française](./GOVERNANCE.md)
+# Modèle de Gouvernance
+
+[🏴󠁧󠁢󠁥󠁮󠁧󠁿 Version Anglaise](./GOVERNANCE.md)
 
 ## Decision Making
 - Core team proposes changes
