@@ -7,5 +7,18 @@
     "test": "echo 'Add your test runner here'",
     "lint": "eslint .",
     "format": "prettier --write ."
+  },
+  "dependencies": {
+    "@cosmjs/proto-signing": "^0.33.1",
+    "@cosmjs/stargate": "^0.33.1",
+    "@supabase/supabase-js": "^2.50.3",
+    "@vitejs/plugin-react": "^4.6.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^7.6.3",
+    "typescript": "^5.8.3"
+  },
+  "devDependencies": {
+    "vite": "^7.0.3"
   }
 }
