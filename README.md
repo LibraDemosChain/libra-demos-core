@@ -22,6 +22,11 @@ For any questions, contact support@librademoschain.com or create an issue.
 [![Issues](https://img.shields.io/github/issues/<your-username>/libra-demos-core)](https://github.com/<your-username>/libra-demos-core/issues)
 [![Pull Requests](https://img.shields.io/github/issues-pr/<your-username>/libra-demos-core)](https://github.com/<your-username>/libra-demos-core/pulls)
 [![Coverage Status](https://img.shields.io/badge/coverage-unknown-lightgrey)](https://github.com/<your-username>/libra-demos-core)
+[![Code Style](https://img.shields.io/badge/code%20style-prettier-ff69b4.svg)](https://prettier.io/)
+[![Security](https://img.shields.io/badge/security-audit-important)](SECURITY_AUDIT_CHECKLIST.md)
+[![Roadmap](https://img.shields.io/badge/roadmap-active-brightgreen)](ROADMAP.md)
+[![Governance](https://img.shields.io/badge/governance-open-blue)](GOVERNANCE.md)
+[![Logo](docs/logo.png)](docs/logo.png)
 
 <!-- Add a coverage badge if you set up coverage reporting -->
 
@@ -89,6 +94,20 @@ For any questions, contact support@librademoschain.com or create an issue.
 
 - [Integration tests](tests/integration/)
 - [Unit tests](tests/unit/)
+
+## Quickstart
+
+```sh
+# Backend (Go)
+cd blockchain && go run main.go
+
+# Frontend (Next.js)
+cd frontend && npm install && npm run dev
+```
+
+## Demo & Presentation
+- [Live Demo](https://your-demo-url.com) <!-- Replace with your deployed URL -->
+- [Project Video](https://your-video-url.com) <!-- Replace with your video link -->
 
 ## Table of Contents
 - [Project Overview](#-librademochain-a-step-towards-a-decentralized-democracy)

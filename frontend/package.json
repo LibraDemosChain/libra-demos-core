@@ -1,0 +1,11 @@
+{
+  "name": "libra-demos-frontend",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo 'Add your test runner here'",
+    "lint": "eslint .",
+    "format": "prettier --write ."
+  }
+}
