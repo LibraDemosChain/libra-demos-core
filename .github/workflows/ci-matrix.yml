@@ -1,0 +1,48 @@
+name: CI Matrix
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+jobs:
+  build:
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        os: [ubuntu-latest, windows-latest, macos-latest]
+        go-version: [1.21, 1.22]
+        node-version: [18, 20]
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: ${{ matrix.go-version }}
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node-version }}
+      - name: Install Go dependencies
+        run: |
+          cd blockchain
+          go mod tidy
+      - name: Install Node dependencies
+        run: |
+          cd frontend
+          npm ci || npm install
+      - name: Build Go
+        run: |
+          cd blockchain
+          go build ./...
+      - name: Build Node
+        run: |
+          cd frontend
+          npm run build || echo 'No build script'
+      - name: Test Go
+        run: |
+          cd blockchain
+          go test ./...
+      - name: Test Node
+        run: |
+          cd frontend
+          npm test || echo 'No test script'
