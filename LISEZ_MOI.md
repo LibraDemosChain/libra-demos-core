@@ -1,4 +1,4 @@
-| 🧿 LibraDemoChain : Un Pas Vers une Démocratie Décentralisée |
+🧿 LibraDemoChain : Un Pas Vers une Démocratie Décentralisée 
 
  # En 2008, un inconnu sous le pseudonyme de Satoshi Nakamoto a introduit un concept révolutionnaire avec le Bitcoin : une monnaie décentralisée, indépendante des banques et des autorités centrales. 
 
