@@ -1,5 +1,34 @@
 [🇫🇷 Lire en français](LISEZ_MOI.md)
 
+
+
+
+
+
+
+🚧⚠️ ALPHA WARNING / AVERTISSEMENT ALPHA ⚠️🚧
+
+🧪 **This project is in early development. Expect:**
+- Inconsistencies in structure and code
+- Experimental or conceptual features
+- Potential bugs and security flaws
+
+🛠️ **We are actively working on improving architecture, stability, and security. Contribute at your own risk. All feedback is welcome!**
+
+---
+
+🧪 **Ce projet est en cours de développement (phase alpha). Attendez-vous à :**
+- Des incohérences dans la structure et le code
+- Des fonctionnalités expérimentales ou conceptuelles
+- Des bugs potentiels et des failles de sécurité possibles
+
+🛠️ **Nous travaillons activement à améliorer l’architecture, la stabilité et la sécurité. Contribuez à vos risques. Tout retour est bienvenu !**
+
+
+
+
+
+
 # libra-demos-core
 LibraDemosChain core project – decentralized democratic governance platform.
 
