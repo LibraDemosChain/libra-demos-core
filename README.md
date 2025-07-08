@@ -83,6 +83,28 @@ LibraDemosChain vise à révolutionner la démocratie mondiale en créant un sys
 
 ---
 
+## 📚 Base de connaissances NecessaryKnowledge
+
+Retrouvez l’ensemble des guides, exemples, ressources et FAQ pour tous les domaines du projet :
+- [Vue d’ensemble et sommaire](../NecessaryKnowledge/README.md)
+- [Blockchain & Cryptography](../NecessaryKnowledge/01_Blockchain_Cryptography/)
+- [AI & Data Analysis](../NecessaryKnowledge/02_AI_DataAnalysis/)
+- [UX/UI Development](../NecessaryKnowledge/03_UX_UI_Development/)
+- [Legal & Compliance](../NecessaryKnowledge/04_Legal_Compliance/)
+- [Governance & Tokenomics](../NecessaryKnowledge/05_Governance_Tokenomics/)
+- [Security & Resilience](../NecessaryKnowledge/06_Security_Resilience/)
+- [Communication & Social Networks](../NecessaryKnowledge/07_Communication_SocialNetworks/)
+- [Project Management & Community](../NecessaryKnowledge/08_Project_Management/)
+- [Infrastructure & Operations](../NecessaryKnowledge/09_Infrastructure_Operations/)
+- [Ethics & Philosophy](../NecessaryKnowledge/10_Ethics_Phylosophy/)
+- [Education & Adoption](../NecessaryKnowledge/11_Education_Adoption/)
+- [Institutional Relations & Diplomacy](../NecessaryKnowledge/12_Institutional_Relations/)
+- [Political Economy & Impact Analysis](../NecessaryKnowledge/13_Political_Economy/)
+- [Crisis Management & Organizational Resilience](../NecessaryKnowledge/14_Crisis_Management/)
+- [Sustainability & Environmental Impact](../NecessaryKnowledge/15_Sustainability/)
+
+---
+
 ## 🚦 Quickstart
 
 ```sh

@@ -36,4 +36,11 @@ This domain covers the blockchain infrastructure and cryptographic protocols tha
 
 ---
 
-## Directory Structure
+## Accès à la base de connaissances complète
+
+> Pour des guides pratiques, exemples, ressources et FAQ sur tous les domaines (blockchain, IA, UX, sécurité, gouvernance, etc.), consultez la [base de connaissances NecessaryKnowledge](../README.md) :
+>
+> - [Vue d’ensemble et sommaire](../README.md)
+> - [Guides pratiques](./GUIDE_PRACTIQUE.md)
+> - [Exemples concrets](./EXEMPLES.md)
+> - [Ressources & outils](./Resources.md)

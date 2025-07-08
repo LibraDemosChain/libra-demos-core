@@ -69,6 +69,22 @@ docker-compose up --build
 - [frontend/src/modules/multichain/README.md](../frontend/src/modules/multichain/README.md)
 - [smart-contracts/README.md](../smart-contracts/README.md)
 - [scripts/README.md](../scripts/README.md)
+- **[Base de connaissances NecessaryKnowledge (tous domaines, guides, exemples, ressources)](../NecessaryKnowledge/README.md)**
+    - [Blockchain & Cryptography](../NecessaryKnowledge/01_Blockchain_Cryptography/)
+    - [AI & Data Analysis](../NecessaryKnowledge/02_AI_DataAnalysis/)
+    - [UX/UI Development](../NecessaryKnowledge/03_UX_UI_Development/)
+    - [Legal & Compliance](../NecessaryKnowledge/04_Legal_Compliance/)
+    - [Governance & Tokenomics](../NecessaryKnowledge/05_Governance_Tokenomics/)
+    - [Security & Resilience](../NecessaryKnowledge/06_Security_Resilience/)
+    - [Communication & Social Networks](../NecessaryKnowledge/07_Communication_SocialNetworks/)
+    - [Project Management & Community](../NecessaryKnowledge/08_Project_Management/)
+    - [Infrastructure & Operations](../NecessaryKnowledge/09_Infrastructure_Operations/)
+    - [Ethics & Philosophy](../NecessaryKnowledge/10_Ethics_Phylosophy/)
+    - [Education & Adoption](../NecessaryKnowledge/11_Education_Adoption/)
+    - [Institutional Relations & Diplomacy](../NecessaryKnowledge/12_Institutional_Relations/)
+    - [Political Economy & Impact Analysis](../NecessaryKnowledge/13_Political_Economy/)
+    - [Crisis Management & Organizational Resilience](../NecessaryKnowledge/14_Crisis_Management/)
+    - [Sustainability & Environmental Impact](../NecessaryKnowledge/15_Sustainability/)
 
 ## Rapports & analyses avancées
 
