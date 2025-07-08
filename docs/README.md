@@ -1,5 +1,7 @@
 # LibraDemosChain Documentation
 
+[🇫🇷 Lire en français](./fr/README.md) | [🇬🇧 Read in English](./en/README.md)
+
 Welcome to the documentation site! For a more interactive experience, consider using a static site generator like MkDocs, Docusaurus, or GitBook.
 
 ## Project Architecture
