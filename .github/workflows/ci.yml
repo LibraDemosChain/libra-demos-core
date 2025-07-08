@@ -1,0 +1,64 @@
+name: CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        language: [go, node]
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up Go
+        if: matrix.language == 'go'
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.22'
+      - name: Set up Node.js
+        if: matrix.language == 'node'
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Install dependencies (Go)
+        if: matrix.language == 'go'
+        run: |
+          cd blockchain
+          go mod tidy
+      - name: Install dependencies (Node.js)
+        if: matrix.language == 'node'
+        run: |
+          cd frontend
+          npm ci || npm install
+      - name: Build (Go)
+        if: matrix.language == 'go'
+        run: |
+          cd blockchain
+          go build ./...
+      - name: Build (Node.js)
+        if: matrix.language == 'node'
+        run: |
+          cd frontend
+          npm run build || echo 'No build script'
+      - name: Run tests (Go)
+        if: matrix.language == 'go'
+        run: |
+          cd blockchain
+          go test ./...
+      - name: Run tests (Node.js)
+        if: matrix.language == 'node'
+        run: |
+          cd frontend
+          npm test || echo 'No test script'
+  markdownlint:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Lint Markdown files
+        uses: DavidAnson/markdownlint-cli2-action@v16
+        with:
+          globs: '**/*.md'

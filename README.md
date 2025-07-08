@@ -1,3 +1,5 @@
+[🇫🇷 Lire en français](LISEZ_MOI.md)
+
 # libra-demos-core
 LibraDemosChain core project - decentralized democratic governance platform.
 
@@ -14,6 +16,14 @@ Our goal is simple: restore citizens' trust by implementing democratic, fair, an
 ## Contact
 For any questions, contact support@librademoschain.com or create an issue.
 
+## Badges
+[![Build Status](https://github.com/<your-username>/libra-demos-core/actions/workflows/ci.yml/badge.svg)](https://github.com/<your-username>/libra-demos-core/actions)
+[![License](https://img.shields.io/github/license/<your-username>/libra-demos-core)](LICENSE)
+[![Issues](https://img.shields.io/github/issues/<your-username>/libra-demos-core)](https://github.com/<your-username>/libra-demos-core/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/<your-username>/libra-demos-core)](https://github.com/<your-username>/libra-demos-core/pulls)
+[![Coverage Status](https://img.shields.io/badge/coverage-unknown-lightgrey)](https://github.com/<your-username>/libra-demos-core)
+
+<!-- Add a coverage badge if you set up coverage reporting -->
 
 ## 🛠 Technic Stack
 - **Blockchain** : Cosmos SDK (Go)
@@ -79,6 +89,27 @@ For any questions, contact support@librademoschain.com or create an issue.
 
 - [Integration tests](tests/integration/)
 - [Unit tests](tests/unit/)
+
+## Table of Contents
+- [Project Overview](#-librademochain-a-step-towards-a-decentralized-democracy)
+- [Technic Stack](#-technic-stack)
+- [Interactive Index of the Repository](#-interactive-index-of-the-repository)
+- [FAQ](#faq)
+
+## FAQ
+
+### How do I install the project?
+See the [ONBOARDING.md](docs/ONBOARDING.md) for setup instructions.
+
+### How do I run tests?
+- For Go backend: `cd blockchain && go test ./...`
+- For frontend: `cd frontend && npm test`
+
+### How do I contribute?
+See [CONTRIBUTING.md](CONTRIBUTING.md).
+
+### Where can I report a bug or request a feature?
+Use the GitHub Issues tab and select the appropriate template.
 
 ---
 

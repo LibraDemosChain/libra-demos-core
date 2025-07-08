@@ -1,0 +1,11 @@
+(Replace this with your own diagram. Example below:)
+
+![Architecture Diagram](https://raw.githubusercontent.com/your-username/libra-demos-core/main/docs/architecture_diagram.drawio.png)
+
+- **Frontend (Next.js + CosmJS)**: User interface, connects to blockchain via REST/RPC.
+- **Backend (Cosmos SDK, Go)**: Blockchain logic, consensus, governance, tokenomics.
+- **Smart Contracts (CosmWasm)**: Deployed on the blockchain for custom logic.
+- **Database/State**: Managed by Cosmos SDK.
+- **External APIs**: (Optional) for price feeds, analytics, etc.
+
+(You can edit this diagram with draw.io or Excalidraw and export as PNG.)

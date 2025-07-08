@@ -1,0 +1,30 @@
+site_name: LibraDemosChain Docs
+repo_url: https://github.com/<your-username>/libra-demos-core
+nav:
+  - Home: index.md
+  - Architecture: architecture.md
+  - Onboarding: onboarding.md
+  - Litepaper: litepaper.md
+  - Whitepaper: whitepaper.md
+  - FAQ: faq.md
+  - Developer Guide: developer_guide.md
+  - Security: ../SECURITY.md
+  - Contributing: ../CONTRIBUTING.md
+  - Code of Conduct: ../CODE_OF_CONDUCT.md
+theme:
+  name: material
+  language: en
+  features:
+    - navigation.tabs
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - toc.integrate
+markdown_extensions:
+  - toc
+  - admonition
+  - codehilite
+  - footnotes
+  - meta
+  - tables
+  - pymdownx.superfences
