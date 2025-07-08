@@ -27,6 +27,7 @@ For any questions, contact support@librademoschain.com or create an issue.
 [![Roadmap](https://img.shields.io/badge/roadmap-active-brightgreen)](ROADMAP.md)
 [![Governance](https://img.shields.io/badge/governance-open-blue)](GOVERNANCE.md)
 [![Logo](docs/logo.png)](docs/logo.png)
+[![Discord](https://img.shields.io/discord/121212121212121212?label=Discord&logo=discord&color=5865F2)](https://discord.gg/6QfYVPtm)
 
 <!-- Add a coverage badge if you set up coverage reporting -->
 
@@ -137,4 +138,16 @@ Use the GitHub Issues tab and select the appropriate template.
 > Click on a section above to explore the documentation or related modules.
 > For quick navigation, use VS Code search (`Ctrl+P`) or browse the listed folders.
 
----
+## Nos réseaux sociaux
+
+- [Medium](https://medium.com/@LibraDemosChain)
+- [YouTube](https://www.youtube.com/@LibraDemosChain)
+- [TikTok](https://www.tiktok.com/@librademoschain.l)
+- [Snapchat](https://www.snapchat.com/add/librademoschain)
+- [LinkedIn](https://www.linkedin.com/company/LibraDemos)
+- [GitHub](https://github.com/LibraDemosChain)
+- [Discord](https://discord.gg/6QfYVPtm)
+- [Telegram](https://t.me/+PaesMzbS0xIzYWM0)
+- [WhatsApp](https://chat.whatsapp.com/G9CPYwVlEn44rY7ZjNUjDs)
+- [Twitter (X)](https://twitter.com/LibraDemosChain)
+- [Instagram](https://www.instagram.com/librademoschain?igsh=dW5ibWZ3Zzg5ZjFy&utm_source=qr)

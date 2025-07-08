@@ -1,0 +1,17 @@
+name: Accessibility CI
+on:
+  pull_request:
+    paths:
+      - 'frontend/**'
+jobs:
+  a11y:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install dependencies
+        run: |
+          cd frontend
+          npm install
+      - name: Run axe accessibility tests
+        run: |
+          npx axe ./frontend/public --exit
