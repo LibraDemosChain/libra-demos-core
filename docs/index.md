@@ -2,10 +2,10 @@
 
 Welcome to the official documentation for LibraDemosChain.
 
-- [Project Architecture](architecture.md)
-- [Onboarding](onboarding.md)
-- [Litepaper](litepaper.md)
-- [Whitepaper](whitepaper.md)
+- [Project Architecture](ARCHITECTURE.md)
+- [Onboarding](ONBOARDING.md)
+- [Litepaper](LITEPAPER.md)
+- [Whitepaper](WHITEPAPER.md)
 - [FAQ](faq.md)
 - [Developer Guide](developer_guide.md)
 - [Security Policy](../SECURITY.md)
