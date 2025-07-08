@@ -33,3 +33,71 @@ Si c'est le cas, contacter support@librademoschain.com ou crée une issue
 - **Consensus** : Tendermint BFT
 - **Smart Contract** : CosmWasm
 
+## 🗺️ Index interactif du dépôt
+
+### 📚 Documentation principale
+
+- [ARCHITECTURE.md](docs/ARCHITECTURE.md) — Architecture technique
+- [LITEPAPER.md](docs/LITEPAPER.md) — Litepaper du projet
+- [ONBOARDING.md](docs/ONBOARDING.md) — Guide d'onboarding
+- [whitepaper.md](docs/whitepaper.md) — Whitepaper
+
+### 🧑‍🔬 Arguments & Recherche
+
+- [Ressources générales](docs/research_arguments/Ressources.md)
+- [Démocratie décentralisée](docs/research_arguments/Decentralised_Democraty/) — Articles, schémas, publications
+- [Rapports GIEC](docs/research_arguments/GIEC_Rapports/)
+- [Objectifs](docs/research_arguments/Objectifs/)
+- [Autres documents](docs/research_arguments/Others_Documents/)
+
+### 🏗️ Blockchain (backend)
+
+- [README Blockchain](blockchain/README.md)
+- [App](blockchain/app/)
+- [Commandes](blockchain/cmd/)
+- [Protos](blockchain/proto/)
+- [Modules avancés](blockchain/x/)
+
+### 🖥️ Frontend
+
+- [README Frontend](frontend/README.md)
+- [Public](frontend/public/)
+- [Source](frontend/src/)
+
+### 🧠 Necessary Knowledge (formation & vulgarisation)
+
+- [README](NecessaryKnowledge/README.md)
+- [Template README](NecessaryKnowledge/Template_REDAME.md)
+- [01 Blockchain & Cryptographie](NecessaryKnowledge/01_Blockchain_Cryptography/)
+- [02 IA & Data Analysis](NecessaryKnowledge/02_AI_DataAnalysis/)
+- [03 UX/UI Development](NecessaryKnowledge/03_UX_UI_Development/)
+- [04 Legal & Compliance](NecessaryKnowledge/04_Legal_Compliance/)
+- [05 Governance & Tokenomics](NecessaryKnowledge/05_Governance_Tokenomics/)
+- [06 Security & Resilience](NecessaryKnowledge/06_Security_Resilience/)
+- [07 Communication & Réseaux sociaux](NecessaryKnowledge/07_Communication_SocialNetworks/)
+- [08 Project Management](NecessaryKnowledge/08_Project_Management/)
+- [09 Infrastructure & Operations](NecessaryKnowledge/09_Infrastructure_Operations/)
+- [10 Ethics & Philosophy](NecessaryKnowledge/10_Ethics_Phylosophy/)
+- [11 Education & Adoption](NecessaryKnowledge/11_Education_Adoption/)
+- [12 Institutional Relations](NecessaryKnowledge/12_Institutional_Relations/)
+- [13 Political Economy](NecessaryKnowledge/13_Political_Economy/)
+- [14 Crisis Management](NecessaryKnowledge/14_Crisis_Management/)
+- [15 Sustainability](NecessaryKnowledge/15_Sustainability/)
+- [BlockChain Formation](NecessaryKnowledge/BlockChain_Formation/)
+  - [Introduction Altcoins (FR)](NecessaryKnowledge/BlockChain_Formation/Introduction_AltCoins_FR.html)
+  - [Introduction Bitcoin](NecessaryKnowledge/BlockChain_Formation/Introduction_Bitcoin.html)
+
+### 🧪 Tests
+
+- [Tests d'intégration](tests/integration/)
+- [Tests unitaires](tests/unit/)
+
+---
+
+### 🗺️ Carte interactive (exemple)
+
+> Cliquez sur une section ci-dessus pour explorer la documentation ou les modules correspondants.
+> Pour une navigation rapide, utilisez la recherche de VS Code (`Ctrl+P`) ou explorez les dossiers listés.
+
+---
+
