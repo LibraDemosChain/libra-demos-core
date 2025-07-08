@@ -10,7 +10,7 @@
  # Aujourd’hui, ce principe de décentralisation dépasse les seules questions économiques. 
 
     Le monde traverse une crise de confiance similaire, mais cette fois envers les institutions politiques. 
-    De plus en plus de citoyens se désengagent, perdent foi en les structures de pouvoir traditionnelles, et se retirent de la po#litique. 
+    De plus en plus de citoyens se désengagent, perdent foi en les structures de pouvoir traditionnelles, et se retirent de la politique. 
 
     Cette apathie, cette défiance générale, crée un fossé qui fragilise encore plus la démocratie.
 
