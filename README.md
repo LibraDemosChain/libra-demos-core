@@ -1,5 +1,7 @@
 [🇫🇷 Lire en français](LISEZ_MOI.md)
 
+# libra-demos-core
+LibraDemosChain core project – decentralized democratic governance platform.
 
 
 
@@ -29,8 +31,6 @@
 
 
 
-# libra-demos-core
-LibraDemosChain core project – decentralized democratic governance platform.
 
 ---
 
