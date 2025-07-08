@@ -20,7 +20,11 @@
    * En réintégrant la technologie blockchain dans le domaine de la gouvernance, LibraDemoChain vise à créer un système où la démocratie n’est plus un idéal lointain, mais une réalité quotidienne et accessible à tous.
 
  # Notre objectif est simple : redonner la confiance aux citoyens en mettant en place une gouvernance démocratique, équitable, et totalement transparente, à travers la puissance de la blockchain.
+ 
 
+Avez-vous des questions ? 
+
+Si c'est le cas, contacter support@librademoschain.com ou crée une issue
 
 
 ## 🛠 Stack Technique
